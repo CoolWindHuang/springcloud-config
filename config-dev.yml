@@ -5,4 +5,4 @@ spring:
     active: dev
   cloud:
     config:
-      info: springcloud-config-dev,master,version 1.0
+      info: springcloud-config-dev,master,version 2.0
